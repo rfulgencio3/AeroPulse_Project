@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\shared\AeroPulse.SharedKernel\AeroPulse.SharedKernel.csproj" />
+  </ItemGroup>
+
 </Project>
